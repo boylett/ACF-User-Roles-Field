@@ -1,11 +1,11 @@
 <?php
 
 	/**
-   * Plugin Name:  Advanced Custom Fields - User Roles Field
-   * Plugin URI:   https://github.com/boylett/ACF-User-Roles-Field
-   * Description:  Adds an ACF field for User Role selection
-   * Author:       Ryan Boylett
-   * Author URI:   https://github.com/boylett
+  	 * Plugin Name:  Advanced Custom Fields - User Roles Field
+   	 * Plugin URI:   https://github.com/boylett/ACF-User-Roles-Field
+   	 * Description:  Adds an ACF field for User Role selection
+   	 * Author:       Ryan Boylett
+	 * Author URI:   https://github.com/boylett
 	 */
 
 	add_action('acf/include_field_types', function()
